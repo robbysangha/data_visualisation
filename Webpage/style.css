@@ -1,0 +1,19 @@
+body {
+	background-color: #5A6673;
+}
+
+div#main_block {
+	background-color: #F6E1D2;
+	width: 992px;
+	margin: 0 auto;
+}
+
+.bar {
+	font-family: fantasy;
+	color: #5A6673;
+	text-indent: 1px;
+	height: 19px;
+	background-color: #A4D246;
+	margin: 1px;
+	border-radius: 5px
+}
