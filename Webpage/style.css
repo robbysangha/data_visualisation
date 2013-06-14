@@ -17,3 +17,9 @@ div#main_block {
 	margin: 1px;
 	border-radius: 5px
 }
+
+.footer {
+	float: right;
+	width: 992px;
+	color: white;
+}
